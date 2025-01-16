@@ -1,4 +1,5 @@
 QuizApp Microservices Architecture Overview
+
 The project follows a microservices-based architecture with four main components:
 1. API Gateway 
   •	Purpose: Routes client requests to the appropriate services and handles cross-cutting concerns like authentication.
